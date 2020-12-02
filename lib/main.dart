@@ -60,7 +60,7 @@ class HomePage extends StatelessWidget {
                     ],),
                       Padding(
                         padding: const EdgeInsets.only(top:4),
-                        child: Text("The Best Dating, Friendship and Interest matching",style: TextStyle(color: Colors.pink[400],fontSize: 13),),
+                        child: Text("The Best Dating, Friendship and Interest matching",style: TextStyle(color: Colors.pink[300],fontSize: 13),),
                       ),
                   ],
                 ),
